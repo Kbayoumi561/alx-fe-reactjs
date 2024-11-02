@@ -8,7 +8,7 @@ const UserProfile = (props) => {
       </div>
     );
   };
-  
+
   UserProfile.propTypes = {
     name: PropTypes.string.isRequired,
     age: PropTypes.number.isRequired,
