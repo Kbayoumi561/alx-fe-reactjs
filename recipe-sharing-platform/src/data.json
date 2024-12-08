@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+      "image": "https://via.placeholder.com/150",
+      "ingredients": [
+        "200g spaghetti",
+        "2 large eggs",
+        "100g pancetta",
+        "50g Parmesan cheese",
+        "Freshly ground black pepper",
+        "Salt"
+      ],
+      "instructions": "1. Boil spaghetti in salted water until al dente. 2. Fry pancetta in a pan until crispy. 3. Beat eggs and mix with Parmesan. 4. Drain spaghetti and toss with pancetta and egg mixture. 5. Serve with black pepper."
+    },
+    {
+      "id": 2,
+      "title": "Chicken Tikka Masala",
+      "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato-based gravy.",
+      "image": "https://via.placeholder.com/150",
+      "ingredients": [
+        "500g chicken breast, cubed",
+        "1 cup yogurt",
+        "2 tbsp garam masala",
+        "1 tbsp turmeric",
+        "1 tbsp cumin",
+        "1 tbsp coriander",
+        "1 can tomato puree",
+        "1 cup heavy cream",
+        "Fresh cilantro"
+      ],
+      "instructions": "1. Marinate chicken in yogurt and spices. 2. Grill the chicken until cooked. 3. Cook onion, ginger, and garlic in a pan, then add tomato puree and spices. 4. Add grilled chicken and cream, simmer until thick. 5. Garnish with cilantro and serve."
+    },
+    {
+      "id": 3,
+      "title": "Vegetable Stir Fry",
+      "summary": "A colorful mix of vegetables stir-fried in a savory soy sauce.",
+      "image": "https://via.placeholder.com/150",
+      "ingredients": [
+        "1 cup broccoli florets",
+        "1 red bell pepper, sliced",
+        "1 carrot, julienned",
+        "1 zucchini, sliced",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "2 tbsp olive oil",
+        "1 garlic clove, minced",
+        "1 tbsp sesame seeds"
+      ],
+      "instructions": "1. Heat olive oil in a pan, add garlic. 2. Add vegetables and stir-fry for 5-7 minutes. 3. Add soy sauce and sesame oil, and cook for another 2 minutes. 4. Garnish with sesame seeds and serve."
+    }
+  ]  
