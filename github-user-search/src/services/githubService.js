@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Set the base URL for GitHub API requests
-const BASE_URL = 'https://api.github.com/search/users';
+const BASE_URL = 'https://api.github.com/search/users?q';
 
 // Fetch GitHub API key from the environment variables
 const API_KEY = import.meta.env.VITE_GITHUB_API_KEY;  // Use the VITE_ prefix
